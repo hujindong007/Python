@@ -1,0 +1,410 @@
+{
+    "data": [
+        {
+            "directors": [
+                "史蒂文·斯皮尔伯格"
+            ],
+            "rate": "9.0",
+            "cover_x": 1000,
+            "star": "45",
+            "title": "猫鼠游戏",
+            "url": "https://movie.douban.com/subject/1305487/",
+            "casts": [
+                "莱昂纳多·迪卡普里奥",
+                "汤姆·汉克斯",
+                "克里斯托弗·沃肯",
+                "马丁·辛",
+                "艾米·亚当斯"
+            ],
+            "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p453924541.jpg",
+            "id": "1305487",
+            "cover_y": 1481
+        },
+        {
+            "directors": [
+                "史蒂文·斯皮尔伯格"
+            ],
+            "rate": "9.5",
+            "cover_x": 580,
+            "star": "50",
+            "title": "辛德勒的名单",
+            "url": "https://movie.douban.com/subject/1295124/",
+            "casts": [
+                "连姆·尼森",
+                "本·金斯利",
+                "拉尔夫·费因斯",
+                "卡罗琳·古多尔",
+                "乔纳森·萨加尔"
+            ],
+            "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p492406163.jpg",
+            "id": "1295124",
+            "cover_y": 856
+        },
+        {
+            "directors": [
+                "周星驰",
+                "李力持"
+            ],
+            "rate": "8.7",
+            "cover_x": 1080,
+            "star": "45",
+            "title": "喜剧之王",
+            "url": "https://movie.douban.com/subject/1302425/",
+            "casts": [
+                "周星驰",
+                "张柏芝",
+                "莫文蔚",
+                "吴孟达",
+                "林子善"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2579932167.jpg",
+            "id": "1302425",
+            "cover_y": 1599
+        },
+        {
+            "directors": [
+                "蒂姆·波顿"
+            ],
+            "rate": "8.7",
+            "cover_x": 498,
+            "star": "45",
+            "title": "剪刀手爱德华",
+            "url": "https://movie.douban.com/subject/1292370/",
+            "casts": [
+                "约翰尼·德普",
+                "薇诺娜·瑞德",
+                "黛安·韦斯特",
+                "安东尼·迈克尔·豪尔",
+                "凯西·贝克"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p480956937.jpg",
+            "id": "1292370",
+            "cover_y": 755
+        },
+        {
+            "directors": [
+                "韩寒"
+            ],
+            "rate": "6.9",
+            "cover_x": 7142,
+            "star": "35",
+            "title": "飞驰人生",
+            "url": "https://movie.douban.com/subject/30163509/",
+            "casts": [
+                "沈腾",
+                "黄景瑜",
+                "尹正",
+                "张本煜",
+                "尹昉"
+            ],
+            "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2542973862.jpg",
+            "id": "30163509",
+            "cover_y": 10000
+        },
+        {
+            "directors": [
+                "宫崎骏"
+            ],
+            "rate": "9.1",
+            "cover_x": 2064,
+            "star": "45",
+            "title": "天空之城",
+            "url": "https://movie.douban.com/subject/1291583/",
+            "casts": [
+                "田中真弓",
+                "横泽启子",
+                "初井言荣",
+                "寺田农",
+                "常田富士男"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1446261379.jpg",
+            "id": "1291583",
+            "cover_y": 2933
+        },
+        {
+            "directors": [
+                "黄东赫"
+            ],
+            "rate": "9.3",
+            "cover_x": 794,
+            "star": "45",
+            "title": "熔炉",
+            "url": "https://movie.douban.com/subject/5912992/",
+            "casts": [
+                "孔侑",
+                "郑有美",
+                "金贤秀",
+                "郑仁絮",
+                "白承焕"
+            ],
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1363250216.jpg",
+            "id": "5912992",
+            "cover_y": 1134
+        },
+        {
+            "directors": [
+                "黄渤"
+            ],
+            "rate": "7.1",
+            "cover_x": 1080,
+            "star": "35",
+            "title": "一出好戏",
+            "url": "https://movie.douban.com/subject/26985127/",
+            "casts": [
+                "黄渤",
+                "舒淇",
+                "王宝强",
+                "张艺兴",
+                "于和伟"
+            ],
+            "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2529571873.jpg",
+            "id": "26985127",
+            "cover_y": 1512
+        },
+        {
+            "directors": [
+                "周申",
+                "刘露"
+            ],
+            "rate": "8.3",
+            "cover_x": 2000,
+            "star": "40",
+            "title": "驴得水",
+            "url": "https://movie.douban.com/subject/25921812/",
+            "casts": [
+                "任素汐",
+                "大力",
+                "刘帅良",
+                "裴魁山",
+                "阿如那"
+            ],
+            "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2393044761.jpg",
+            "id": "25921812",
+            "cover_y": 3000
+        },
+        {
+            "directors": [
+                "克里斯托弗·诺兰"
+            ],
+            "rate": "9.2",
+            "cover_x": 4050,
+            "star": "45",
+            "title": "蝙蝠侠：黑暗骑士",
+            "url": "https://movie.douban.com/subject/1851857/",
+            "casts": [
+                "克里斯蒂安·贝尔",
+                "希斯·莱杰",
+                "艾伦·艾克哈特",
+                "迈克尔·凯恩",
+                "玛吉·吉伦哈尔"
+            ],
+            "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p462657443.jpg",
+            "id": "1851857",
+            "cover_y": 6000
+        },
+        {
+            "directors": [
+                "刘伟强"
+            ],
+            "rate": "6.7",
+            "cover_x": 1286,
+            "star": "35",
+            "title": "中国机长",
+            "url": "https://movie.douban.com/subject/30295905/",
+            "casts": [
+                "张涵予",
+                "欧豪",
+                "杜江",
+                "袁泉",
+                "张天爱"
+            ],
+            "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2568258113.jpg",
+            "id": "30295905",
+            "cover_y": 1800
+        },
+        {
+            "directors": [
+                "周星驰"
+            ],
+            "rate": "6.7",
+            "cover_x": 3500,
+            "star": "35",
+            "title": "美人鱼",
+            "url": "https://movie.douban.com/subject/19944106/",
+            "casts": [
+                "邓超",
+                "罗志祥",
+                "张雨绮",
+                "林允",
+                "徐克"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2316177058.jpg",
+            "id": "19944106",
+            "cover_y": 4889
+        },
+        {
+            "directors": [
+                "普特鹏·普罗萨卡·那·萨克那卡林",
+                "华森·波克彭"
+            ],
+            "rate": "8.4",
+            "cover_x": 503,
+            "star": "40",
+            "title": "初恋这件小事",
+            "url": "https://movie.douban.com/subject/4739952/",
+            "casts": [
+                "平采娜·乐维瑟派布恩",
+                "马里奥·毛瑞尔",
+                "苏达拉·布查蓬",
+                "雅尼卡·桑普蕾舞",
+                "诺特·阿查拉那·阿瑞亚卫考"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p767451487.jpg",
+            "id": "4739952",
+            "cover_y": 720
+        },
+        {
+            "directors": [
+                "克里斯·哥伦布"
+            ],
+            "rate": "8.6",
+            "cover_x": 3300,
+            "star": "45",
+            "title": "哈利·波特与密室",
+            "url": "https://movie.douban.com/subject/1296996/",
+            "casts": [
+                "丹尼尔·雷德克里夫",
+                "艾玛·沃森",
+                "鲁伯特·格林特",
+                "汤姆·费尔顿",
+                "理查德·格雷弗斯"
+            ],
+            "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1082651990.jpg",
+            "id": "1296996",
+            "cover_y": 4877
+        },
+        {
+            "directors": [
+                "陈思诚"
+            ],
+            "rate": "7.6",
+            "cover_x": 2850,
+            "star": "40",
+            "title": "唐人街探案",
+            "url": "https://movie.douban.com/subject/26311973/",
+            "casts": [
+                "王宝强",
+                "刘昊然",
+                "佟丽娅",
+                "陈赫",
+                "肖央"
+            ],
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2302930556.jpg",
+            "id": "26311973",
+            "cover_y": 3990
+        },
+        {
+            "directors": [
+                "庄文强"
+            ],
+            "rate": "8.1",
+            "cover_x": 1000,
+            "star": "40",
+            "title": "无双",
+            "url": "https://movie.douban.com/subject/26425063/",
+            "casts": [
+                "周润发",
+                "郭富城",
+                "张静初",
+                "冯文娟",
+                "廖启智"
+            ],
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2535260806.jpg",
+            "id": "26425063",
+            "cover_y": 1400
+        },
+        {
+            "directors": [
+                "安东尼·罗素",
+                "乔·罗素"
+            ],
+            "rate": "8.1",
+            "cover_x": 1968,
+            "star": "40",
+            "title": "复仇者联盟3：无限战争",
+            "url": "https://movie.douban.com/subject/24773958/",
+            "casts": [
+                "小罗伯特·唐尼",
+                "克里斯·海姆斯沃斯",
+                "克里斯·埃文斯",
+                "马克·鲁弗洛",
+                "乔什·布洛林"
+            ],
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2517753454.jpg",
+            "id": "24773958",
+            "cover_y": 2756
+        },
+        {
+            "directors": [
+                "罗杰·阿勒斯",
+                "罗伯·明可夫"
+            ],
+            "rate": "9.0",
+            "cover_x": 2140,
+            "star": "45",
+            "title": "狮子王",
+            "url": "https://movie.douban.com/subject/1301753/",
+            "casts": [
+                "乔纳森·泰勒·托马斯",
+                "马修·布罗德里克",
+                "杰瑞米·艾恩斯",
+                "詹姆斯·厄尔·琼斯",
+                "莫伊拉·凯利"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2277799019.jpg",
+            "id": "1301753",
+            "cover_y": 3164
+        },
+        {
+            "directors": [
+                "宋阳",
+                "张吃鱼"
+            ],
+            "rate": "6.9",
+            "cover_x": 2268,
+            "star": "35",
+            "title": "羞羞的铁拳",
+            "url": "https://movie.douban.com/subject/27038183/",
+            "casts": [
+                "艾伦",
+                "马丽",
+                "沈腾",
+                "田雨",
+                "宋阳"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2499793218.jpg",
+            "id": "27038183",
+            "cover_y": 3174
+        },
+        {
+            "directors": [
+                "冯小刚"
+            ],
+            "rate": "7.6",
+            "cover_x": 2000,
+            "star": "40",
+            "title": "芳华",
+            "url": "https://movie.douban.com/subject/26862829/",
+            "casts": [
+                "黄轩",
+                "苗苗",
+                "钟楚曦",
+                "杨采钰",
+                "李晓峰"
+            ],
+            "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2507227732.jpg",
+            "id": "26862829",
+            "cover_y": 2802
+        }
+    ]
+}

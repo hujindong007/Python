@@ -1,0 +1,406 @@
+{
+    "data": [
+        {
+            "directors": [
+                "王晶"
+            ],
+            "rate": "8.5",
+            "cover_x": 628,
+            "star": "45",
+            "title": "九品芝麻官",
+            "url": "https://movie.douban.com/subject/1297518/",
+            "casts": [
+                "周星驰",
+                "吴孟达",
+                "张敏",
+                "徐锦江",
+                "钟丽缇"
+            ],
+            "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p648370300.jpg",
+            "id": "1297518",
+            "cover_y": 1009
+        },
+        {
+            "directors": [
+                "大卫·叶茨"
+            ],
+            "rate": "8.8",
+            "cover_x": 1600,
+            "star": "45",
+            "title": "哈利·波特与死亡圣器(下)",
+            "url": "https://movie.douban.com/subject/3011235/",
+            "casts": [
+                "丹尼尔·雷德克里夫",
+                "艾玛·沃森",
+                "鲁伯特·格林特",
+                "海伦娜·伯翰·卡特",
+                "拉尔夫·费因斯"
+            ],
+            "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p917846733.jpg",
+            "id": "3011235",
+            "cover_y": 2366
+        },
+        {
+            "directors": [
+                "温子仁"
+            ],
+            "rate": "7.6",
+            "cover_x": 6750,
+            "star": "40",
+            "title": "海王",
+            "url": "https://movie.douban.com/subject/3878007/",
+            "casts": [
+                "杰森·莫玛",
+                "艾梅柏·希尔德",
+                "威廉·达福",
+                "帕特里克·威尔森",
+                "妮可·基德曼"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2541280047.jpg",
+            "id": "3878007",
+            "cover_y": 10000
+        },
+        {
+            "directors": [
+                "朱塞佩·托纳多雷"
+            ],
+            "rate": "8.9",
+            "cover_x": 1000,
+            "star": "45",
+            "title": "西西里的美丽传说",
+            "url": "https://movie.douban.com/subject/1292402/",
+            "casts": [
+                "莫妮卡·贝鲁奇",
+                "朱塞佩·苏尔法罗",
+                "玛蒂尔德·皮亚纳",
+                "埃丽萨·莫鲁奇",
+                "奥罗拉·夸特罗基"
+            ],
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2448029416.jpg",
+            "id": "1292402",
+            "cover_y": 1500
+        },
+        {
+            "directors": [
+                "乔斯·韦登"
+            ],
+            "rate": "8.2",
+            "cover_x": 1350,
+            "star": "40",
+            "title": "复仇者联盟",
+            "url": "https://movie.douban.com/subject/1866479/",
+            "casts": [
+                "小罗伯特·唐尼",
+                "克里斯·埃文斯",
+                "斯嘉丽·约翰逊",
+                "克里斯·海姆斯沃斯",
+                "杰瑞米·雷纳"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1469137689.jpg",
+            "id": "1866479",
+            "cover_y": 2000
+        },
+        {
+            "directors": [
+                "詹姆斯·麦克特格"
+            ],
+            "rate": "8.9",
+            "cover_x": 1000,
+            "star": "45",
+            "title": "V字仇杀队",
+            "url": "https://movie.douban.com/subject/1309046/",
+            "casts": [
+                "娜塔莉·波特曼",
+                "雨果·维文",
+                "斯蒂芬·瑞",
+                "斯蒂芬·弗雷",
+                "约翰·赫特"
+            ],
+            "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p1465235231.jpg",
+            "id": "1309046",
+            "cover_y": 1500
+        },
+        {
+            "directors": [
+                "奥利维埃·纳卡什",
+                "埃里克·托莱达诺"
+            ],
+            "rate": "9.2",
+            "cover_x": 2181,
+            "star": "45",
+            "title": "触不可及",
+            "url": "https://movie.douban.com/subject/6786002/",
+            "casts": [
+                "弗朗索瓦·克鲁塞",
+                "奥玛·希",
+                "安娜·勒尼",
+                "奥德雷·弗勒罗",
+                "托马·索利韦尔"
+            ],
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1454261925.jpg",
+            "id": "6786002",
+            "cover_y": 3120
+        },
+        {
+            "directors": [
+                "周申",
+                "刘露"
+            ],
+            "rate": "7.4",
+            "cover_x": 1000,
+            "star": "35",
+            "title": "半个喜剧",
+            "url": "https://movie.douban.com/subject/30269016/",
+            "casts": [
+                "任素汐",
+                "吴昱翰",
+                "刘迅",
+                "汤敏",
+                "赵海燕"
+            ],
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2576482356.jpg",
+            "id": "30269016",
+            "cover_y": 1500
+        },
+        {
+            "directors": [
+                "鲁本·弗雷斯彻"
+            ],
+            "rate": "7.2",
+            "cover_x": 2050,
+            "star": "35",
+            "title": "毒液：致命守护者",
+            "url": "https://movie.douban.com/subject/3168101/",
+            "casts": [
+                "汤姆·哈迪",
+                "米歇尔·威廉姆斯",
+                "里兹·阿迈德",
+                "斯科特·黑兹",
+                "里德·斯科特"
+            ],
+            "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2537158013.jpg",
+            "id": "3168101",
+            "cover_y": 2910
+        },
+        {
+            "directors": [
+                "威廉·惠勒"
+            ],
+            "rate": "9.0",
+            "cover_x": 1600,
+            "star": "45",
+            "title": "罗马假日",
+            "url": "https://movie.douban.com/subject/1293839/",
+            "casts": [
+                "奥黛丽·赫本",
+                "格利高里·派克",
+                "埃迪·艾伯特",
+                "哈特利·鲍尔",
+                "哈考特·威廉姆斯"
+            ],
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2189265085.jpg",
+            "id": "1293839",
+            "cover_y": 2400
+        },
+        {
+            "directors": [
+                "马丁·斯科塞斯"
+            ],
+            "rate": "8.8",
+            "cover_x": 2480,
+            "star": "45",
+            "title": "禁闭岛",
+            "url": "https://movie.douban.com/subject/2334904/",
+            "casts": [
+                "莱昂纳多·迪卡普里奥",
+                "马克·鲁弗洛",
+                "本·金斯利",
+                "马克斯·冯·叙多夫",
+                "米歇尔·威廉姆斯"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1832875827.jpg",
+            "id": "2334904",
+            "cover_y": 3543
+        },
+        {
+            "directors": [
+                "戈尔·维宾斯基"
+            ],
+            "rate": "8.7",
+            "cover_x": 1500,
+            "star": "45",
+            "title": "加勒比海盗",
+            "url": "https://movie.douban.com/subject/1298070/",
+            "casts": [
+                "约翰尼·德普",
+                "杰弗里·拉什",
+                "奥兰多·布鲁姆",
+                "凯拉·奈特莉",
+                "杰克·达文波特"
+            ],
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p1596085504.jpg",
+            "id": "1298070",
+            "cover_y": 2228
+        },
+        {
+            "directors": [
+                "阿兰·葛斯彭纳"
+            ],
+            "rate": "9.2",
+            "cover_x": 856,
+            "star": "45",
+            "title": "海蒂和爷爷",
+            "url": "https://movie.douban.com/subject/25958717/",
+            "casts": [
+                "阿努克·斯特芬",
+                "布鲁诺·甘茨",
+                "昆林·艾格匹",
+                "安娜·申茨",
+                "伊莎贝尔·奥特曼"
+            ],
+            "cover": "https://img9.doubanio.com/view/photo/s_ratio_poster/public/p2554525534.jpg",
+            "id": "25958717",
+            "cover_y": 1200
+        },
+        {
+            "directors": [
+                "阿方索·卡隆"
+            ],
+            "rate": "8.7",
+            "cover_x": 396,
+            "star": "45",
+            "title": "哈利·波特与阿兹卡班的囚徒",
+            "url": "https://movie.douban.com/subject/1291544/",
+            "casts": [
+                "丹尼尔·雷德克里夫",
+                "艾玛·沃森",
+                "鲁伯特·格林特",
+                "加里·奥德曼",
+                "朱丽·沃特斯"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p1910812549.jpg",
+            "id": "1291544",
+            "cover_y": 592
+        },
+        {
+            "directors": [
+                "迈克·内威尔"
+            ],
+            "rate": "8.5",
+            "cover_x": 729,
+            "star": "45",
+            "title": "哈利·波特与火焰杯",
+            "url": "https://movie.douban.com/subject/1309055/",
+            "casts": [
+                "丹尼尔·雷德克里夫",
+                "艾玛·沃森",
+                "鲁伯特·格林特",
+                "蒂莫西·斯波",
+                "邦妮·怀特"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2220723219.jpg",
+            "id": "1309055",
+            "cover_y": 1000
+        },
+        {
+            "directors": [
+                "乔恩·费儒"
+            ],
+            "rate": "8.3",
+            "cover_x": 448,
+            "star": "40",
+            "title": "钢铁侠",
+            "url": "https://movie.douban.com/subject/1432146/",
+            "casts": [
+                "小罗伯特·唐尼",
+                "泰伦斯·霍华德",
+                "格温妮斯·帕特洛",
+                "杰夫·布里吉斯",
+                "莱丝莉·比伯"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p725871968.jpg",
+            "id": "1432146",
+            "cover_y": 672
+        },
+        {
+            "directors": [
+                "贝纳尔多·贝托鲁奇"
+            ],
+            "rate": "9.2",
+            "cover_x": 1985,
+            "star": "45",
+            "title": "末代皇帝",
+            "url": "https://movie.douban.com/subject/1293172/",
+            "casts": [
+                "尊龙",
+                "陈冲",
+                "邬君梅",
+                "彼得·奥图尔",
+                "英若诚"
+            ],
+            "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p452089833.jpg",
+            "id": "1293172",
+            "cover_y": 3000
+        },
+        {
+            "directors": [
+                "弗兰克·德拉邦特"
+            ],
+            "rate": "8.8",
+            "cover_x": 800,
+            "star": "45",
+            "title": "绿里奇迹",
+            "url": "https://movie.douban.com/subject/1300374/",
+            "casts": [
+                "汤姆·汉克斯",
+                "大卫·摩斯",
+                "迈克·克拉克·邓肯",
+                "邦尼·亨特",
+                "詹姆斯·克伦威尔"
+            ],
+            "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p767586451.jpg",
+            "id": "1300374",
+            "cover_y": 1191
+        },
+        {
+            "directors": [
+                "加尔德·加兹特鲁·乌鲁蒂亚"
+            ],
+            "rate": "7.8",
+            "cover_x": 1984,
+            "star": "40",
+            "title": "饥饿站台",
+            "url": "https://movie.douban.com/subject/34805219/",
+            "casts": [
+                "伊万·马萨格",
+                "佐里昂·伊圭里奥尔",
+                "安东尼亚·圣胡安",
+                "埃米利奥·布阿勒",
+                "亚历山德拉·玛桑凯"
+            ],
+            "cover": "https://img3.doubanio.com/view/photo/s_ratio_poster/public/p2566870171.jpg",
+            "id": "34805219",
+            "cover_y": 2835
+        },
+        {
+            "directors": [
+                "诺亚·鲍姆巴赫"
+            ],
+            "rate": "8.6",
+            "cover_x": 1800,
+            "star": "45",
+            "title": "婚姻故事",
+            "url": "https://movie.douban.com/subject/27202818/",
+            "casts": [
+                "斯嘉丽·约翰逊",
+                "亚当·德赖弗",
+                "劳拉·邓恩",
+                "艾奇·罗伯逊",
+                "梅里特·韦弗"
+            ],
+            "cover": "https://img1.doubanio.com/view/photo/s_ratio_poster/public/p2571760178.jpg",
+            "id": "27202818",
+            "cover_y": 2666
+        }
+    ]
+}
