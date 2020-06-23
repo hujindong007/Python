@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="16cb20b8-cff8-43b6-bce1-7f12fca317a0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dCOMPoGjauSpJYlje8Ash7BLwF" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.part-time job">
+    <configuration name="MoneyDemo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MangoDBTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MoneyDemo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="douyuData" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MangoDBTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/douyuData.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="part-time job" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="MangoDBTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/part-time job.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.part-time job" />
+        <item itemvalue="Python.MoneyDemo" />
+        <item itemvalue="Python.douyuData" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="16cb20b8-cff8-43b6-bce1-7f12fca317a0" name="Default Changelist" comment="" />
+      <created>1591925559751</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591925559751</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1191" height="177" key="GridCell.Tab.0.bottom" timestamp="1592474904656">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1191" height="177" key="GridCell.Tab.0.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1592474904656" />
+    <state width="1191" height="177" key="GridCell.Tab.0.center" timestamp="1592474904656">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1191" height="177" key="GridCell.Tab.0.center/0.23.1920.1057@0.23.1920.1057" timestamp="1592474904656" />
+    <state width="1191" height="177" key="GridCell.Tab.0.left" timestamp="1592474904655">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1191" height="177" key="GridCell.Tab.0.left/0.23.1920.1057@0.23.1920.1057" timestamp="1592474904655" />
+    <state width="1191" height="177" key="GridCell.Tab.0.right" timestamp="1592474904656">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1191" height="177" key="GridCell.Tab.0.right/0.23.1920.1057@0.23.1920.1057" timestamp="1592474904656" />
+    <state width="1191" height="274" key="GridCell.Tab.1.bottom" timestamp="1592388793173">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1191" height="274" key="GridCell.Tab.1.bottom/0.23.1920.1057@0.23.1920.1057" timestamp="1592388793173" />
+    <state width="1191" height="274" key="GridCell.Tab.1.center" timestamp="1592388793172">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1191" height="274" key="GridCell.Tab.1.center/0.23.1920.1057@0.23.1920.1057" timestamp="1592388793172" />
+    <state width="1191" height="274" key="GridCell.Tab.1.left" timestamp="1592388793172">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1191" height="274" key="GridCell.Tab.1.left/0.23.1920.1057@0.23.1920.1057" timestamp="1592388793172" />
+    <state width="1191" height="274" key="GridCell.Tab.1.right" timestamp="1592388793173">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state width="1191" height="274" key="GridCell.Tab.1.right/0.23.1920.1057@0.23.1920.1057" timestamp="1592388793173" />
+    <state x="757" y="190" key="SettingsEditor" timestamp="1592443805869">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="757" y="190" key="SettingsEditor/0.23.1920.1057@0.23.1920.1057" timestamp="1592443805869" />
+    <state x="812" y="498" key="com.intellij.ide.util.TipDialog" timestamp="1592789186139">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="812" y="498" key="com.intellij.ide.util.TipDialog/0.23.1920.1057@0.23.1920.1057" timestamp="1592789186139" />
+    <state x="330" y="395" width="670" height="676" key="search.everywhere.popup" timestamp="1591939192502">
+      <screen x="0" y="23" width="1920" height="1057" />
+    </state>
+    <state x="330" y="395" width="670" height="676" key="search.everywhere.popup/0.23.1920.1057@0.23.1920.1057" timestamp="1591939192502" />
+  </component>
+</project>
